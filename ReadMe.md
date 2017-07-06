@@ -11,4 +11,4 @@ I created functions to return general word analysis in a python dictionary. Anal
 
 Licensed under the MIT license.
 
-[MyLinguisiticAnalysis](https://quantumxyz.github.io/LinguisticAnalysis/) 
+[MyLinguisiticAnalysis](https://quantumxyz.github.io/LinguisticAnalysis/License.md) 
